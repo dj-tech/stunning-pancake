@@ -2,6 +2,8 @@
 
 Software for math operations
 
+1.0v:
+
 ```
 for i in range (10,1001):
    break
@@ -35,4 +37,5 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 import random
 random.choice(['apple', 'pear', 'banana'])
 ``` 
-            
+
+2.0 in file       
