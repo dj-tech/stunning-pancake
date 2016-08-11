@@ -4,7 +4,7 @@ Software for math operations
 
 ```
 for i in range (10,1001):
-   break;
+   break
 import os
 os.system ("curl")
 numeri = ("".join(i,str(7ⁿ-2/4)))
@@ -34,6 +34,5 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 import random
 random.choice(['apple', 'pear', 'banana'])
-Setting = (True)
 ``` 
             
