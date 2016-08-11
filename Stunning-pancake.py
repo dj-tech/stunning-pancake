@@ -1,1 +1,2 @@
+# -*- coding: encoding -*-
 Emoticon = (😺)
