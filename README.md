@@ -34,5 +34,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 import random
 random.choice(['apple', 'pear', 'banana'])
+Setting = (True)
 ``` 
             
