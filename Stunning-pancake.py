@@ -1,4 +1,6 @@
 # -*- coding: encoding -*-
+import tkinter
+base = tkinter.tk()
 Emoticon = ("😺")
 for i in range (10,1001):
    break
