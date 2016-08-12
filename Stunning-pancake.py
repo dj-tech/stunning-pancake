@@ -3,7 +3,11 @@ Emoticon = ("😺")
 for i in range (10,1001):
    break
 import os
-os.system ("curl")
+plugin = (input ("you into using an add-on ?"))
+if plugin == "yes":
+    os.system (input ("python or python3") + input ("name file"))
+else
+    print ("")
 numeri = ("".join(i,str(7ⁿ-2/4)))
 if numeri == range (999,1001):
    print ("😀")
