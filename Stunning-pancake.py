@@ -1,4 +1,4 @@
-# -*- coding: encoding -*-
+
 import tkinter
 base = tkinter.tk()
 Emoticon = ("😺")
